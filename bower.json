@@ -1,0 +1,19 @@
+{
+  "name": "quandry",
+  "version": "0.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/joshua-chavanne/quandry",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mithril": "~0.2.0"
+  },
+  "devDependencies": {
+    "mithril": "~0.2.0"
+  }
+}
